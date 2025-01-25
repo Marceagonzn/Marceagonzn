@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 😎 About Me:
 I am a computer engineering student, I am currently starting my degree, I am currently expanding my knowledge of Front-end back-end development. I like to learn and experiment with new mechanics to develop something new and revolutionary that is productive, creative and innovative<br><br><br>📚I’m currently learning ...<br>     ° Javascript<br>     ° Typescript<br><br>💬 Ask me anything, I'll do my best to help you.<br><br>⚡ Fun fact Apart from developing applications and studying, I love playing video games, listening to music and making videos for YouTube
 
 
