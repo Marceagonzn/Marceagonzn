@@ -1,5 +1,5 @@
 # 😎 About Me:
-I am a computer engineering student, I am currently starting my degree, I am currently expanding my knowledge of development. I like to learn and experiment with new mechanics to develop something new and revolutionary that is productive, creative and innovative<br><br><br>📚I’m currently learning ...<br>     ° C++<br>     ° Java<br><br>💬 Ask me anything, I'll do my best to help you.<br><br>⚡ Fun fact Apart from developing applications and studying, I love playing video games, listening to music and making videos for YouTube
+Computer Engineering student at the beginning of my academic journey. Passionate about software development and constantly expanding my technical knowledge. I enjoy learning and experimenting with new technologies to build innovative, creative, and productive solutions that can make an impact.
 
 
 ## 🌐 Socials:
