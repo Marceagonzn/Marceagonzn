@@ -1,3 +1,5 @@
+![Screenshot](screen2.gif)
+
 # 💫 About Me:
 👋 Hi! I'm Marcelo, a Computer Engineering student from Paraguay.<br><br>🔭 I'm currently working on my personal projects.<br><br>🌱 I'm learning Java, C++, React, Docker, Linux, and Networking.<br><br>💻 I enjoy building web applications, homelab projects, and self-hosted services.<br><br>🎯 My goal is to become a Software Engineer.
 
